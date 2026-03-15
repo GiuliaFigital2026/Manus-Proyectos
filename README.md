@@ -1,4 +1,4 @@
-# Manus-Proyectos 🚀
+![Cabecera](images/imagen_1773556724596.jpeg)# Manus-Proyectos 🚀
 
 **Repositorio principal de trabajo para proyectos de IA creados en colaboración con Manus.**
 
